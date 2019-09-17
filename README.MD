@@ -2,9 +2,13 @@
 
 Repositório com Scripts para a manipulação e organização de Strings e Arquivos do Windows.
 
-Scripts criados:
+### Contribuição
 
-### 1- Inserir Números em Nomes de Arquivos
+Se você gostou do Repositório e deseja contribuir para que os Scripts criados sejam aprimorados, ou até corrigir um eventual erro, sinta-se à vontade para fazer um Pull Request do Repositório :grin:   
+
+### Lista de Scripts
+
+#### [Inserir Números em Nomes de Arquivos](https://github.com/rodolfobolconte/scripts-basicos-python/blob/master/Inserir%20N%C3%BAmeros%20em%20Nomes%20de%20Arquivos.py)
 
 Dado os arquivos de uma pasta do Windows, o Script coloca um número no início do nome e segue em sequência até o último arquivo, por exemplo, arquivos de uma pasta com os nomes:
 
@@ -19,7 +23,7 @@ Shackler's Revenge.mp3 | 2 - Shackler's Revenge.mp3
 - O primeiro valor da sequência numérica na variável `numero`;
 - A extensão dos arquivos, sem o ```.```, por exemplo ```mp3```, na variável `extensao`.
 
-### 2 - Palavras Maiúsculas
+#### [Palavras Maiúsculas](https://github.com/rodolfobolconte/scripts-basicos-python/blob/master/Palavras%20Mai%C3%BAsculas.py)
 
 Um loop infinito para inserir uma string de caracteres, retornando os mesmos como maiúsculos, por exemplo:
 
@@ -30,7 +34,7 @@ outro exemplo | OUTRO EXEMPLO
 
 Basta executar o script e inserir as Strings.
 
-### 3 - Palavras Minúsculas
+#### [Palavras Minúsculas](https://github.com/rodolfobolconte/scripts-basicos-python/blob/master/Palavras%20Min%C3%BAsculas.py)
 
 Um loop infinito para inserir uma string de caracteres, retornando os mesmos como minúsculos, por exemplo:
 
@@ -41,7 +45,7 @@ OUTRO EXEMPLO | outro exemplo
 
 Basta executar o script e inserir as Strings.
 
-### 4 - Primeira Letra Maiúscula
+#### [Primeira Letra Maiúscula](https://github.com/rodolfobolconte/scripts-basicos-python/blob/master/Primeira%20Letra%20Mai%C3%BAscula.py)
 
 Um loop infinito para inserir uma string de caracteres, retornando a primeira letra de cada palavra como maiúscula, por exemplo:
 
@@ -52,7 +56,7 @@ OUTRO EXEMPLO | Outro Exemplo
 
 Basta executar o script e inserir as Strings.
 
-### 5 - Renomeador de Arquivos por Pasta
+#### [Renomeador de Arquivos por Pasta](https://github.com/rodolfobolconte/scripts-basicos-python/blob/master/Renomeador%20de%20Arquivos%20por%20Pasta.py)
 
 Dado os arquivos de uma pasta do Windows, o Script renomeia os arquivos com o nome `1` seguido de uma sequência numérica até o último arquivo, por exemplo, arquivos de uma pasta com os nomes:
 
@@ -67,7 +71,7 @@ Shackler's Revenge.mp3 | 1 (2).mp3
 - O primeiro valor da sequência numérica na variável `numero`;
 - A extensão dos arquivos, sem o ```.```, por exemplo ```mp3```, na variável `extensao`.
 
-### 6 - Renomeador Utilizando Arquivo
+#### [Renomeador Utilizando Arquivo](https://github.com/rodolfobolconte/scripts-basicos-python/blob/master/Renomeador%20Utilizando%20Arquivo.py)
 
 Dado os arquivos de uma pasta do Windows, o Script renomeia os arquivos de acordo com os nomes inseridos no arquivo ```Renomeador Utilizando Arquivo - Arquivo.txt```, por exemplo, arquivos de uma pasta com os nomes:
 
