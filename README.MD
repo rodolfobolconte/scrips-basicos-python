@@ -1,6 +1,6 @@
 # Scripts Básicos Python
 
-[![Python](https://img.shields.io/badge/Python-3.6.8-blue)](https://www.python.org) [![Python](https://img.shields.io/badge/Sublime%20Text%203-Build%203176-orange)](https://www.python.org) [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-1.42.0-purple)](https://code.visualstudio.com/)
+[![Python](https://img.shields.io/badge/Python-3.6.8-blue)](https://www.python.org) [![Sublime Text 3](https://img.shields.io/badge/Sublime%20Text%203-Build%203176-orange)](https://www.sublimetext.com/3) [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-1.42.0-purple)](https://code.visualstudio.com/)
 
 Repositório com Scripts para a manipulação e organização de Strings e Arquivos do Windows.
 
